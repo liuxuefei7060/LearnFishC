@@ -5,7 +5,9 @@ int main() {
 	printf("----学习数据类型----\n");
 	
 	short int shortIntType = 10;
-	int intType = 11;
+
+	int intType = -1;
+	
 	long int longIntType= 100000000000011000;
 	long int longLongIntType = 122200000000011000;
 	
